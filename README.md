@@ -6,9 +6,10 @@ People have various ways that they prefer to learn - whether it's visual, tactil
 
 ## Table of Contents
 
-1. [Installation](https://github.com/dcmoss87/PDF2Audiobook#installation)
-2. [Author](https://github.com/dcmoss87/PDF2Audiobook#author)
-3. [License](https://github.com/dcmoss87/PDF2Audiobook#license)
+1. [Installation](https://github.com/dcmoss87/PDF2Audiobook#setup)
+2. [Usage Examples](https://github.com/dcmoss87/PDF2Audiobook#usage)
+3. [Author](https://github.com/dcmoss87/PDF2Audiobook#author)
+4. [License](https://github.com/dcmoss87/PDF2Audiobook#license)
 
 ## Getting Started
 
@@ -42,7 +43,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
   12. The newly created mp3 file can be found in the dist folder and played independently from the application.
  
-### Usage
+### Usage Examples
 
 Place example pictures/gifs here
 
