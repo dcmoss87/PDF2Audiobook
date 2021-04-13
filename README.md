@@ -8,8 +8,9 @@ People have various ways that they prefer to learn - whether it's visual, tactil
 
 1. [Setup](https://github.com/dcmoss87/PDF2Audiobook#setup)
 2. [Usage](https://github.com/dcmoss87/PDF2Audiobook#usage)
-3. [Author](https://github.com/dcmoss87/PDF2Audiobook#author)
-4. [License](https://github.com/dcmoss87/PDF2Audiobook#license)
+3. [Troubleshooting]
+4. [Author](https://github.com/dcmoss87/PDF2Audiobook#author)
+5. [License](https://github.com/dcmoss87/PDF2Audiobook#license)
 
 ## Getting Started
 
@@ -29,7 +30,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
   5. In the Save File Name field, enter a name for the mp3 file that will be generated.
 
-  6. Enter a starting and ending page range (please note that larger page ranges will take longer to convert).
+  6. Enter a starting and ending page range (please note that larger page ranges will take longer to convert - see the [Usage] and/or [Troubleshooting] subsections for more details).
 
   7. Select a language from the Language dropdown box.
 
@@ -46,6 +47,10 @@ An example PDF and audio output has been provided and can be found in the [Docum
 ### Usage
 
 Place example pictures/gifs here
+
+### Troubleshooting
+
+Place troubleshooting and links to testing information here
 
 ## Author
 
