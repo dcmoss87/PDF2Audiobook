@@ -39,8 +39,6 @@ An example PDF and audio output has been provided and can be found in the [Docum
   10. From the application, you may choose to Pause or Resume the mp3 or Exit the program by clicking on the corresponding buttons.
 
   11. The newly created mp3 file can be found in the dist folder and played independently from the application.
-
-  12. Error message and testing information can be found [here] (https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Capstone%20Test%20Plan.pdf).
  
 ### Usage
 
