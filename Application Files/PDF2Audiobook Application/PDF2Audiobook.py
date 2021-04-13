@@ -81,6 +81,12 @@ def prtException():
     gui.after(2000, clearEr)
     gui.after(4000, defaultMsg)
 
+def formatError():
+    label.place(x = 128, y = 270)
+    strVar.set('PDF not formatted correctly.')
+    gui.after(2000, clearEr)
+    gui.after(4000, defaultMsg)
+
 def nonIntPageRange():
     try:
         page1Int = int(pageRangeEntry1.get())
@@ -108,6 +114,8 @@ def start():
             conversion(filePath, fileName)
     except ValueError:
         prtException()
+    except AssertionError:
+        formatError()
     except:
         label.place(x = 150, y = 270)
         strVar.set("PDF file not found.")
