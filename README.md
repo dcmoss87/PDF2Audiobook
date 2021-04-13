@@ -43,7 +43,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
   12. The newly created mp3 file can be found in the dist folder and played independently from the application.
  
-### Usage Examples
+### Usage
 
 Place example pictures/gifs here
 
