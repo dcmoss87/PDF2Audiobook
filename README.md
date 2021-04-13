@@ -24,11 +24,11 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
   3. Open the PDF2Audiobook.exe application located in the dist folder of the code download.
 
-  4. Enter the name of the PDF file to convert in the PDF Name field (It is not necessary to put the file extension in the entry field as this will generate an error).
+  4. Enter the name of the PDF file to convert in the PDF Name field (it is not necessary to put the file extension in the entry field as this will generate an error).
 
   5. In the Save File Name field, enter a name for the mp3 file that will be generated.
 
-  6. Enter a starting and ending page range (Please note that larger page ranges will take longer to convert.).
+  6. Enter a starting and ending page range (please note that larger page ranges will take longer to convert).
 
   7. Select a language from the Language dropdown box.
 
