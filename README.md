@@ -25,7 +25,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
   3. Open the PDF2Audiobook.exe application located in the [dist](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Application%20Files/PDF2Audiobook%20Application/dist) folder of the code download.
 
-  4. Enter the name of the PDF file to convert in the PDF Name field (it is not necessary to put the file extension in the entry field as this will generate an error - example input can be found in the [Usage](https://github.com/dcmoss87/PDF2Audiobook#usage) subsecion).
+  4. Enter the name of the PDF file to convert in the PDF Name field (it is not necessary to put the file extension in the entry field as this will generate an error - example input can be found in the [Usage](https://github.com/dcmoss87/PDF2Audiobook#usage) subsection).
 
   5. In the Save File Name field, enter a name for the mp3 file that will be generated.
 
