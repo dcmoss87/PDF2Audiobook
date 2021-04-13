@@ -9,8 +9,9 @@ People have various ways that they prefer to learn - whether it's visual, tactil
 1. [Setup](https://github.com/dcmoss87/PDF2Audiobook#setup)
 2. [Usage](https://github.com/dcmoss87/PDF2Audiobook#usage)
 3. [Troubleshooting](https://github.com/dcmoss87/PDF2Audiobook#troubleshooting)
-4. [Author](https://github.com/dcmoss87/PDF2Audiobook#author)
-5. [License](https://github.com/dcmoss87/PDF2Audiobook#license)
+4. 
+5. [Author](https://github.com/dcmoss87/PDF2Audiobook#author)
+6. [License](https://github.com/dcmoss87/PDF2Audiobook#license)
 
 ## Getting Started
 
@@ -51,6 +52,19 @@ Place example pictures/gifs here
 ### Troubleshooting
 
 Place troubleshooting and links to testing information here
+
+## Dependencies
+
+This program utlizes multiple modules including:
+- [os](https://docs.python.org/3/library/os.html)
+- [gtts](https://pypi.org/project/gTTS/)
+- [googletrans](https://pypi.org/project/googletrans/)
+- [PyPDF2](https://pypi.org/project/PyPDF2/)
+- [pygame](https://pypi.org/project/pygame/)
+- [pathlib](https://docs.python.org/3/library/pathlib.html)
+- [tkinter](https://docs.python.org/3/library/tkinter.html)
+- [threading](https://docs.python.org/3/library/threading.html)
+- [Google Cloud Text to Speech](https://cloud.google.com/text-to-speech)
 
 ## Author
 
