@@ -7,7 +7,6 @@ from pathlib import Path
 import tkinter
 from tkinter import *
 from tkinter import ttk
-from googletrans import Translator
 import threading
 
 def startPlay(fileName):
