@@ -64,7 +64,6 @@ This program utlizes multiple modules including:
 - [pathlib](https://docs.python.org/3/library/pathlib.html)
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
 - [threading](https://docs.python.org/3/library/threading.html)
-- [Google Cloud Text to Speech](https://cloud.google.com/text-to-speech)
 
 ## Author
 
