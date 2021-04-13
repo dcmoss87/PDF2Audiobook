@@ -48,5 +48,5 @@ Place example pictures/gifs here
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dcmoss87/PythonPasswordGenerator/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dcmoss87/PDF2Audiobook/blob/main/License/LICENSE) file for details.
 
