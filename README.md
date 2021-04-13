@@ -6,8 +6,8 @@ People have various ways that they prefer to learn - whether it's visual, tactil
 
 ## Table of Contents
 
-1. [Installation](https://github.com/dcmoss87/PDF2Audiobook#setup)
-2. [Usage Examples](https://github.com/dcmoss87/PDF2Audiobook#usage)
+1. [Setup](https://github.com/dcmoss87/PDF2Audiobook#setup)
+2. [Usage Examples](https://github.com/dcmoss87/PDF2Audiobook#usage examples)
 3. [Author](https://github.com/dcmoss87/PDF2Audiobook#author)
 4. [License](https://github.com/dcmoss87/PDF2Audiobook#license)
 
