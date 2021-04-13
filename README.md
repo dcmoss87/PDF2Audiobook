@@ -26,19 +26,21 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
   4. Enter the name of the PDF file to convert in the PDF Name field.
 
-  5. Enter a starting and ending page range (Please note that larger page ranges will take longer to convert.).
+  5. In the Save File Name field, enter a name for the mp3 file that will be generated.
 
-  6. Select a language from the Language dropdown box.
+  6. Enter a starting and ending page range (Please note that larger page ranges will take longer to convert.).
 
-  7. Click the Convert button.
+  7. Select a language from the Language dropdown box.
 
-  8. The Conversion Progress bar will indicate the progress of your conversion.
+  8. Click the Convert button.
 
-  9. Once the conversion is complete, the mp3 file will begin to play.
+  9. The Conversion Progress bar will indicate the progress of your conversion.
 
-  10. From the application, you may choose to Pause or Resume the mp3 or Exit the program by clicking on the corresponding buttons.
+  10. Once the conversion is complete, the mp3 file will begin to play.
 
-  11. The newly created mp3 file can be found in the dist folder and played independently from the application.
+  11. From the application, you may choose to Pause or Resume the mp3 or Exit the program by clicking on the corresponding buttons.
+
+  12. The newly created mp3 file can be found in the dist folder and played independently from the application.
  
 ### Usage
 
