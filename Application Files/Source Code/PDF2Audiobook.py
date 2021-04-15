@@ -76,6 +76,12 @@ if __name__ == "__main__":
         strVar.set('PDF not formatted correctly.')
         gui.after(2000, clearEr)
         gui.after(4000, defaultMsg)
+    
+    def indOutofRange():
+        label.place(x = 133, y = 270)
+        strVar.set('Too many pages entered.')
+        gui.after(2000, clearEr)
+        gui.after(4000, defaultMsg)
 
     def nonIntPageRange():
         try:
@@ -106,6 +112,8 @@ if __name__ == "__main__":
             prtException()
         except AssertionError:
             formatError()
+        except IndexError:
+            indOutofRange()
         except:
             label.place(x = 150, y = 270)
             strVar.set("PDF file not found.")
