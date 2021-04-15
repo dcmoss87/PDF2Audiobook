@@ -87,6 +87,12 @@ def formatError():
     gui.after(2000, clearEr)
     gui.after(4000, defaultMsg)
 
+def indOutofRange():
+        label.place(x = 133, y = 270)
+        strVar.set('Too many pages entered.')
+        gui.after(2000, clearEr)
+        gui.after(4000, defaultMsg)
+
 def nonIntPageRange():
     try:
         page1Int = int(pageRangeEntry1.get())
@@ -116,6 +122,8 @@ def start():
         prtException()
     except AssertionError:
         formatError()
+    except IndexError:
+        indOutofRange()
     except:
         label.place(x = 150, y = 270)
         strVar.set("PDF file not found.")

@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['PDF2Audiobook.py'],
-             pathex=['C:\\Users\\Derek\\Desktop\\New'],
+             pathex=['C:\\Users\\Derek\\Desktop\\PDF2AudiobookApplication'],
              binaries=[],
              datas=[],
              hiddenimports=[],
