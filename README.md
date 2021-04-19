@@ -18,7 +18,7 @@ This project was developed using [Visual Studio Code on Windows](https://code.vi
 
 An example PDF and audio output has been provided and can be found in the [Documentation](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Documentation) folder.
 
-### Setup/Installation
+### Setup
 
   1. Download the zip file of the application from [GitHub](https://github.com/dcmoss87/PDF2Audiobook).
 
