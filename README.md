@@ -28,7 +28,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
  
 ### Usage
 
-  1. Enter the name of the PDF file to convert in the **PDF Name field** (it is not necessary to put the file extension in the entry field as this will generate an error).
+  1. Enter the name of the PDF file to convert in the **PDF Name** field (*it is not necessary to put the file extension in the entry field as this will generate an error*).
     
         ![PDFNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PDFNameEntry.PNG)
   
@@ -36,7 +36,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
         ![SaveNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/SaveNameEntry.PNG)
 
-  3. Enter a **Starting** and **Ending** page range (please note that larger page ranges will take longer to convert).
+  3. Enter a **Starting** and **Ending** page range (*please note that larger page ranges will take longer to convert*).
 
         ![PageRangeEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PageRangeEntry.PNG)
 
