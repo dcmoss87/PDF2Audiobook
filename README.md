@@ -23,7 +23,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
   1. Download the application files from [GitHub](https://github.com/dcmoss87/PDF2Audiobook).
 
   2. Place PDF file to be converted into: 
-    C:\Users\ *Your_Username* subdirectory.
+    C:\Users\*Your_Username* subdirectory.
 
   3. Open the PDF2Audiobook.exe application located in the [dist](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Application%20Files/PDF2Audiobook%20Application/dist)     folder of the code download.
  
