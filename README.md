@@ -34,13 +34,23 @@ An example PDF and audio output has been provided and can be found in the [Docum
   
   2. In the Save File Name field, enter a name for the mp3 file that will be generated.
 
+        ![SaveNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/SaveNameEntry.PNG)
+
   3. Enter a starting and ending page range (please note that larger page ranges will take longer to convert).
+
+        ![PageRangeEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PageRangeEntry.PNG)
 
   4. Select a language from the Language dropdown box.
 
+        ![DropDownSelection](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/DropDownSelection.PNG)
+
   5. Click the Convert button.
 
+        ![ConvertButton](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/ConvertButton.PNG)
+
   6. The Conversion Progress bar will indicate the progress of your conversion.
+
+        ![ConverstionBar](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/ConversionBar.PNG)
 
   7. Once the conversion is complete, the mp3 file will begin to play.
 
