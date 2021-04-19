@@ -8,10 +8,9 @@ People have various ways that they prefer to learn - whether it's visual, tactil
 
 1. [Setup](https://github.com/dcmoss87/PDF2Audiobook#setup)
 2. [Usage](https://github.com/dcmoss87/PDF2Audiobook#usage)
-3. [Troubleshooting](https://github.com/dcmoss87/PDF2Audiobook#troubleshooting)
-4. [Dependencies](https://github.com/dcmoss87/PDF2Audiobook#dependencies)
-5. [Author](https://github.com/dcmoss87/PDF2Audiobook#author)
-6. [License](https://github.com/dcmoss87/PDF2Audiobook#license)
+3. [Dependencies](https://github.com/dcmoss87/PDF2Audiobook#dependencies)
+4. [Author](https://github.com/dcmoss87/PDF2Audiobook#author)
+5. [License](https://github.com/dcmoss87/PDF2Audiobook#license)
 
 ## Getting Started
 
