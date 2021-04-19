@@ -22,43 +22,41 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
   1. Download the application files from [GitHub](https://github.com/dcmoss87/PDF2Audiobook).
 
-  2. Place PDF file to be converted into:
- 
-  > C:\Users\Your_Username subdirectory.
+  2. Place PDF file to be converted into the C:\Users\Your_Username subdirectory.
 
   3. Open the PDF2Audiobook.exe application located in the [dist](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Application%20Files/PDF2Audiobook%20Application/dist)     folder of the code download.
  
 ### Usage
 
-  1. Enter the name of the PDF file to convert in the PDF Name field (it is not necessary to put the file extension in the entry field as this will generate an error).
+  1. Enter the name of the PDF file to convert in the **PDF Name field** (it is not necessary to put the file extension in the entry field as this will generate an error).
     
         ![PDFNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PDFNameEntry.PNG)
   
-  2. In the Save File Name field, enter a name for the mp3 file that will be generated.
+  2. In the **Save File Name** field, enter a name for the mp3 file that will be generated.
 
         ![SaveNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/SaveNameEntry.PNG)
 
-  3. Enter a starting and ending page range (please note that larger page ranges will take longer to convert).
+  3. Enter a **Starting** and **Ending** page range (please note that larger page ranges will take longer to convert).
 
         ![PageRangeEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PageRangeEntry.PNG)
 
-  4. Select a language from the Language dropdown box.
+  4. Select a language from the **Language** dropdown box.
 
         ![DropDownSelection](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/DropDownSelection.PNG)
 
-  5. Click the Convert button.
+  5. Click the **Convert** button.
 
         ![ConvertButton](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/ConvertButton.PNG)
 
-  6. The Conversion Progress bar will indicate the progress of your conversion.
+  6. The **Conversion Progress** bar will indicate the progress of your conversion.
 
         ![ConverstionBar](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/ConversionBar.PNG)
 
   7. Once the conversion is complete, the mp3 file will begin to play.
 
-  8. From the application, you may choose to Pause or Resume the mp3 or Exit the program by clicking on the corresponding buttons.
+  8. From the application, you may choose to **Pause** or **Resume** the mp3 or **Exit** the program by clicking on the corresponding buttons.
 
-  9. The newly created mp3 file can be found in the dist folder and played independently from the application.
+  9. The newly created mp3 file can be found in the **dist** folder and played independently from the application.
 
 ## Dependencies
 
