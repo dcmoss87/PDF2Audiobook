@@ -29,7 +29,8 @@ An example PDF and audio output has been provided and can be found in the [Docum
 ### Usage
 
   1. Enter the name of the PDF file to convert in the PDF Name field (it is not necessary to put the file extension in the entry field as this will generate an error).
-    ![PDFNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PDFNameEntry.PNG)
+    
+![PDFNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PDFNameEntry.PNG)
   
   2. In the Save File Name field, enter a name for the mp3 file that will be generated.
 
