@@ -38,7 +38,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
         ![SaveNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/SaveNameEntry.PNG)
 
-  3. Enter a **Starting** and **Ending** page range (*please note that larger page ranges will take longer to convert - it is recommended that 1-10 pages are attempted per conversion*).
+  3. Enter a **Starting** and **Ending** page range (*larger page ranges will take longer to convert - it is recommended that 1-10 pages are attempted per conversion*).
 
         ![PageRangeEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PageRangeEntry.PNG)
 
