@@ -16,7 +16,7 @@ People have various ways that they prefer to learn - whether it's visual, tactil
 
 This project was developed using [Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows).
 
-An example PDF and audio output has been provided and can be found in the [Documentation](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Documentation) folder.
+An example PDF and audio output has been provided and can be found in the [Testing](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Documentation/Testing) folder within the [Documentation](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Documentation) folder.
 
 ### Setup
 
