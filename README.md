@@ -18,7 +18,7 @@ This project was developed using [Visual Studio Code on Windows](https://code.vi
 ```python
 gui = tkinter.Tk()
 gui.title("PDF to Audiobook")
-canvas = Canvas(gui, width=400, height=350, bg = 'gray11')
+canvas = Canvas(gui, width=400, height=350, bg='gray11')
 canvas.pack(fill=BOTH,expand=YES)
 ```
 
