@@ -30,7 +30,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
  
 ### Usage
 
-  1. Enter the name of the PDF file to convert in the **PDF Name** field (*it is not necessary to put the file extension in the entry field as this will generate an error - also note that some PDF may not work with this application due to how they are formatted*).
+  1. Enter the name of the PDF file to convert in the **PDF Name** field (*it is not necessary to put the file extension in the entry field as this will generate an error - also note that some PDF files may not work with this application due to how they are formatted*).
     
         ![PDFNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PDFNameEntry.PNG)
   
