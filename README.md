@@ -14,7 +14,7 @@ People have various ways that they prefer to learn - whether it's visual, tactil
 
 ## Getting Started
 
-This project was developed using [Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows). Below is a code snippet from the program showing how the gui was initialized.
+This project was developed using [Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows). Below is a code snippet from the program showing how the gui panel was initialized.
 ```python
 gui = tkinter.Tk()
 gui.title("PDF to Audiobook")
