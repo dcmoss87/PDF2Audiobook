@@ -23,7 +23,7 @@ canvas.pack(fill=BOTH,expand=YES)
 ```
 **An example PDF ([TestPDF.pdf](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Testing/TestPDF.pdf)) and audio output has been provided and can be found    in the [Testing](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Documentation/Testing) folder within the [Documentation](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Documentation) folder.**
 
-![Sample Audio](/TestAudio.mp3)
+![Sample Audio](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Testing/TestAudio.mp3)
 
 ### Setup
 
