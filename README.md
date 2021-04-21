@@ -14,21 +14,29 @@ People have various ways that they prefer to learn - whether it's visual, tactil
 
 ## Getting Started
 
-This project was developed using [Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows).
+This project was developed using [Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows). Below is a code snippet from the program showing how the gui panel was initialized.
+```python
+gui = tkinter.Tk()
+gui.title("PDF to Audiobook")
+canvas = Canvas(gui, width=400, height=350, bg='gray11')
+canvas.pack(fill=BOTH,expand=YES)
+```
+**An example PDF ([TestPDF.pdf](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Testing/TestPDF.pdf)) and audio output has been provided and can be found    in the [Testing](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Documentation/Testing) folder within the [Documentation](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Documentation) folder.**
+![Sample Audio](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Testing/TestEnglish.mp3)
 
-An example PDF and audio output has been provided and can be found in the [Documentation](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Documentation) folder.
+### Setup
 
-### Setup/Installation
+  1. Download the zip file of the application from [GitHub](https://github.com/dcmoss87/PDF2Audiobook).
 
-  1. Download the application files from [GitHub](https://github.com/dcmoss87/PDF2Audiobook).
+  2. Extract the application files to the Desktop.
 
-  2. Place PDF file to be converted into the C:\Users\Your_Username subdirectory.
+  3. Place PDF file to be converted into the C:\Users\Your_Username subdirectory.
 
-  3. Open the PDF2Audiobook.exe application located in the [dist](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Application%20Files/PDF2Audiobook%20Application/dist)     folder of the code download.
+  4. Open the PDF2Audiobook.exe application located in the [dist](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Application%20Files/PDF2Audiobook%20Application/dist)     folder of the code download.
  
 ### Usage
 
-  1. Enter the name of the PDF file to convert in the **PDF Name** field (*it is not necessary to put the file extension in the entry field as this will generate an error*).
+  1. Enter the name of the PDF file to convert in the **PDF Name** field (*it is not necessary to put the file extension in the entry field as this will generate an error - also note that some PDF files may not work with this application due to how they are formatted*).
     
         ![PDFNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PDFNameEntry.PNG)
   
@@ -36,7 +44,7 @@ An example PDF and audio output has been provided and can be found in the [Docum
 
         ![SaveNameEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/SaveNameEntry.PNG)
 
-  3. Enter a **Starting** and **Ending** page range (*please note that larger page ranges will take longer to convert*).
+  3. Enter a **Starting** and **Ending** page range (*larger page ranges will take longer to convert - it is recommended that 1-10 pages are attempted per conversion*).
 
         ![PageRangeEntry](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Example%20Pictures/PageRangeEntry.PNG)
 
