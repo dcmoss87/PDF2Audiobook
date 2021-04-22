@@ -2,7 +2,7 @@
 
 ## Description
 
-People have various ways that they prefer to learn - whether it's visual, tactile, or aural. This application was created as an alternative to PDF only textbooks and will enable users to have the convenience and portability of an mp3 version of their textbooks.
+People have various ways that they prefer to learn - whether it's visual, tactile, or auditory. This application was created as an alternative to PDF only textbooks and will enable users to have the convenience and portability of an mp3 version of their textbooks.
 
 ## Table of Contents
 
