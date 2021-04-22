@@ -14,7 +14,7 @@ People have various ways that they prefer to learn - whether it's visual, tactil
 
 ## Getting Started
 
-**An example PDF ([TestPDF.pdf](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Documentation/Testing/TestPDF.pdf)) and audio output has been provided and can be found in the [Testing](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Testing) folder.**
+**An example PDF ([TestPDF.pdf](https://github.com/dcmoss87/PDF2Audiobook/blob/main/Testing/TestPDF.pdf)) and audio output has been provided and can be found in the [Testing](https://github.com/dcmoss87/PDF2Audiobook/tree/main/Testing) folder.**
 
 This project was developed using [Visual Studio Code on Windows](https://code.visualstudio.com/docs/setup/windows). Below is a code snippet from the program showing how the gui panel was initialized.
 ```python
